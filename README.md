@@ -1,4 +1,4 @@
-# Hi there, I'm Trieu Duong 👋
+# Hi there, I'm Triều Dương 👋
 
 <p align="left">
   <a href="https://duncannro.id.vn"><img src="https://img.shields.io/badge/Live_Project-duncannro.id.vn-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
