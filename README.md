@@ -92,10 +92,11 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://zalo.me/0933915679"><img src="https://img.shields.io/badge/Zalo-0933915679-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <a href="https://www.facebook.com/trieu.duong.nd2610/"><img src="https://img.shields.io/badge/Facebook-Trieu_Duong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://t.me/DuncanNro"><img src="https://img.shields.io/badge/Telegram-@DuncanNro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-- 💬 **Zalo:** [0933915679](https://zalo.me/0933915679)
+- 🌐 **Facebook:** [trieu.duong.nd2610](https://www.facebook.com/trieu.duong.nd2610/)
 - ✈️ **Telegram:** [@DuncanNro](https://t.me/DuncanNro)
+
 
