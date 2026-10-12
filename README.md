@@ -91,6 +91,11 @@
 
 ## 📫 Connect With Me
 
-- 🌐 **Live Website:** [https://duncannro.id.vn](https://duncannro.id.vn)
-- 🐙 **GitHub:** [@duong2610ndt-tech](https://github.com/duong2610ndt-tech)
-- 💼 **Open to opportunities:** Junior / Intern Python Developer, Backend Developer, Fullstack Developer.
+<p align="left">
+  <a href="https://zalo.me/0933915679"><img src="https://img.shields.io/badge/Zalo-0933915679-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <a href="https://t.me/DuncanNro"><img src="https://img.shields.io/badge/Telegram-@DuncanNro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+- 💬 **Zalo:** [0933915679](https://zalo.me/0933915679)
+- ✈️ **Telegram:** [@DuncanNro](https://t.me/DuncanNro)
+
