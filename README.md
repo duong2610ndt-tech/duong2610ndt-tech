@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" />
 </p>
 
-> **Fullstack & Backend Developer** with a solid foundation in physics, logical problem-solving, and algorithmic thinking. Passionate about building high-performance web systems, real-time data streaming, process automation, and practical software security research.
+> **Independent Software Developer** with a solid foundation in physics, logical problem-solving, and algorithmic thinking. Passionate about building high-performance web systems, real-time data streaming, process automation, and practical software security research.
 
 ---
 
