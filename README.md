@@ -29,7 +29,7 @@
 </div>
 
 ### 🛠️ Architecture & Technical Highlights
-* **High-Performance Backend:** Express.js 5 RESTful API Gateway with tiered architecture (Controllers, Services, Middlewares).
+* **Performance Backend:** Express.js 5 RESTful API Gateway with tiered architecture (Controllers, Services, Middlewares).
 * **Type-Safe Relational Database:** Powered by **PostgreSQL** and managed with **Drizzle ORM** for schema migrations and relations.
 * **Blazing Fast Frontend:** Built on **SvelteKit 2 & Svelte 5 (Runes mode)**, delivering near-instant page loads and seamless mobile experiences.
 * **Automated Financial Webhooks:** Real-time bank transaction processing with cryptographic signature verification (`HMAC`/`SHA256`) and instant push alerts via Telegram Bot API.
